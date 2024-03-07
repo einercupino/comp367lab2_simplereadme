@@ -1,1 +1,1 @@
-# comp367lab2_simplereadme
+# comp367lab2_simplereadme nice
