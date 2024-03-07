@@ -1,1 +1,1 @@
-# comp367lab2_simplereadme test 1
+# comp367lab2_simplereadme test 2
